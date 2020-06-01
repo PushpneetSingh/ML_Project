@@ -5,7 +5,7 @@ Neural style transfer is an optimization technique used to take two images—a c
 - For fun
 - To learn
 ## How?
-Neural Image Style Transfer Project was implemented using Pytorch framework. I used a pre-trained VGG-19 convolutional neural network as a feature extractor for content image and style image and later backpropagated it to minimize the loss function (comprising of content loss as well as style loss functions) to get the required target image.
+Neural Image Style Transfer Project was implemented using Pytorch framework. Used a pre-trained VGG-19 convolutional neural network as a feature extractor for content image and style image and later backpropagated it to minimize the loss function to get the required target image.
 ## Tools and Libraries
 - Jupyter Notebook
 - Pythorch framework
